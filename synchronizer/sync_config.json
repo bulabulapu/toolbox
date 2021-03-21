@@ -1,0 +1,8 @@
+[
+  {
+    "name": "test",
+    "source": "E:/Desktop/code/python/synchronizer/test/a",
+    "target": "E:/Desktop/code/python/synchronizer/test/b",
+    "logEnable": true
+  }
+]
